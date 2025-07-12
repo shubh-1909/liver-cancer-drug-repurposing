@@ -54,9 +54,7 @@ The primary aim is to identify existing or investigational drugs that could be r
 ## 📜 License
 
 This project is licensed under the MIT License.  
-You are free to use, modify, and distribute it with attribution.  
 
-https://colab.research.google.com/github/shubh-1909/liver-cancer-drug-repurposing/blob/main/notebooks/liver_cancer_dgidb_network.ipynb
 
 
 
