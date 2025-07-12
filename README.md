@@ -1,7 +1,7 @@
 # 🧬 Drug Repurposing for Liver Cancer
 ### 🔗 Gene-Drug Interaction Network using DGIdb and TCGA-LIHC data
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shubh-1909/liver-cancer-drug-repurposing/blob/main/notebooks/liver_cancer_dgidb_network.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shubh-1909/liver-cancer-drug-repurposing/blob/main/liver_cancer_dgidb_network.ipynb)
 
 ---
 
